@@ -39,8 +39,14 @@ tags data file structure
 og hver lína af tags hefur formatið 
 UserID::MovieID::tags::Timestamp
 
-tags = er orð sem user gefur til að lýsa myndinni er oftast eitt orð eða value
-timestamp= sekóndur síðan það var miðnætti þegar gögnin voru slegin inn
+tags = er orð sem user gefur til að lýsa myndinni er oftast eitt orð eða value dæmi:"hanks","ryan","epic" osfv.
+timestamp= sekúndur síðan það var miðnætti þegar gögnin voru slegin inn
+UserID = er tala sem gefur til kynna ákveðin notenda
+MovieID = tala yfir ákveðna bíómynd
+title = nafn bíómynda með hástöfum og ár
+Genre = skilgreint yfir ofan
+
+
 
 
 
